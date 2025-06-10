@@ -1,4 +1,4 @@
-# 19CS301-Module33
+# 19CS301-Module3
 Exp.No:3(a)	STRING- FIND AND REPLACE
 ### AIM
 To write a python function to accept a string, word to be replaced and replace the words of the string, get the new word to be replaced from the user.
